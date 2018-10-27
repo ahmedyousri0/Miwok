@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "212337107861",
+    "firebase_url": "https://miwok-5a3b0.firebaseio.com",
+    "project_id": "miwok-5a3b0",
+    "storage_bucket": "miwok-5a3b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212337107861:android:f99b701815059a51",
+        "android_client_info": {
+          "package_name": "com.example.android.miwok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212337107861-pu4vqqovioqfh6ehl7j165015romd8p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.miwok",
+            "certificate_hash": "983ae2becb110c074c5e0a93320dada36566df8c"
+          }
+        },
+        {
+          "client_id": "212337107861-ufrj4tpufau1dktko9a9hqavmj9afj4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNCfBwNL-FAb_KHgW7PVq2nhpG501nFeI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212337107861-ufrj4tpufau1dktko9a9hqavmj9afj4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
